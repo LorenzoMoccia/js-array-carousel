@@ -3,3 +3,8 @@
     margin: 0;
     padding: 0;
 }
+
+.pictures-container{
+    width: 700px;
+    height: 50px;
+}
