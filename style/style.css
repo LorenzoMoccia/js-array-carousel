@@ -9,5 +9,13 @@
     height: 300px;
     border: 1px solid black;
     margin: auto;
-    
+    margin-top: 300px;
+}
+
+.items{
+    display: none;
+}
+
+.prev-btn{
+    border-radius: 50%;
 }
